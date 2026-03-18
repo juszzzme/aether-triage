@@ -1,0 +1,27 @@
+{
+  "type": "fraud_detection",
+  "dataset": "creditcard.csv",
+  "total_samples": 100001,
+  "fraud_samples": 223,
+  "legit_samples": 99777,
+  "fraud_rate": 0.223,
+  "features": [
+    "Time",
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6",
+    "V7",
+    "V8",
+    "V9",
+    "V10",
+    "V11",
+    "V12",
+    "V13",
+    "V14"
+  ],
+  "threshold": 0.5,
+  "status": "data_loaded"
+}

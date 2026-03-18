@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir EMI conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir otp shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "EMI date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Want to know my EMI schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "video kyc link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Loan application status pending please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Video KYC link not working please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "my upi payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Card payment declined at merchant please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "My card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Refund not received for failed transaction please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "video kyc link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "my upi payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Got phishing SMS claiming bank please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Aadhaar verification stuck please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "transaction timed out on bhim please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "account activation not done yet please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "transaction timed out on bhim please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "otp shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Someone used my card without permission please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Want to know my EMI schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir otp shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "My card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir account activation not done yet please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "card payment declined at merchant please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "My UPI payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "video kyc link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Refund not received for failed transaction please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Got phishing SMS claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir My UPI payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "How to do loan foreclosure please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "account activation not done yet please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir my upi payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Refund not received for failed transaction please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "someone used my card without permission please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir got phishing sms claiming bank please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir my upi payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Double deduction for same payment please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "interest rate seems too high please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "video kyc link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Got phishing SMS claiming bank please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir emi conversion not reflecting please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "got phishing sms claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "how to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir transaction timed out on bhim",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "OTP shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir EMI date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir someone used my card without permission please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "suspicious login from different city please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "got phishing sms claiming bank please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "EMI date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Refund not received for failed transaction please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir want to know my emi schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Video KYC link not working please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "card payment declined at merchant please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Got phishing SMS claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "otp shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Double deduction for same payment please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "how to do loan foreclosure please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Want to know my EMI schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir interest rate seems too high please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Transaction timed out on PhonePe",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "My UPI payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir transaction timed out on gpay",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Want to know my EMI schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Transaction timed out on GPay",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "suspicious login from different city please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir my card got blocked without reason please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "account activation not done yet please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "transaction timed out on gpay",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Want to know my EMI schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir otp shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Transaction timed out on GPay please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Suspicious login from different city please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Transaction timed out on GPay please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Card payment declined at merchant please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir my card got blocked without reason please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir EMI conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "My UPI payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir My UPI payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir EMI conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "OTP shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "loan application status pending please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "EMI conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "My card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "double deduction for same payment please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "EMI conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "EMI date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "otp shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "got phishing sms claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Got phishing SMS claiming bank please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Suspicious login from different city please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "how to do loan foreclosure please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "my card got blocked without reason please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "how to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "got phishing sms claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir My card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "EMI date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir interest rate seems too high please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "video kyc link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "want to know my emi schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "OTP shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Want to know my EMI schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir emi conversion not reflecting please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "video kyc link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Aadhaar verification stuck please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir want to know my emi schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "how to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Document upload keeps failing please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "OTP shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "transaction timed out on bhim",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Transaction timed out on PhonePe",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Refund not received for failed transaction please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "want to know my emi schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir got phishing sms claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Video KYC link not working please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "My card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Document upload keeps failing please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir got phishing sms claiming bank please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir OTP shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "otp shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir got phishing sms claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir otp shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "My card got blocked without reason please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "EMI date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Want to know my EMI schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "video kyc link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "account activation not done yet please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "my upi payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "my upi payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Got phishing SMS claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Account activation not done yet please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "my upi payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "My UPI payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "money sent but not received by merchant please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "EMI date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "unknown charge on my credit card statement please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir emi date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "want to know my emi schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir loan application status pending please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "someone used my card without permission please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir how to do loan foreclosure please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Want to know my EMI schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Aadhaar verification stuck please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Double deduction for same payment please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Want to know my EMI schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "emi date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "video kyc link not working please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Refund not received for failed transaction please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Double deduction for same payment please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir EMI date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "want to know my emi schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Got phishing SMS claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Document upload keeps failing please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "how to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "transaction timed out on paytm",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir My UPI payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Unknown charge on my credit card statement please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir OTP shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "otp shared by mistake now money gone",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "otp shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "EMI conversion not reflecting please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir want to know my emi schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Interest rate seems too high please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "my card got blocked without reason please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "want to know my emi schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "got phishing sms claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Got phishing SMS claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir emi date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Someone used my card without permission please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Unauthorized transaction on my account please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Want to know my EMI schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "KYC verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "My UPI payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir KYC verification pending for 2 weeks please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "card payment declined at merchant please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "How to do loan foreclosure please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir my card got blocked without reason",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Got phishing SMS claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Suspicious login from different city please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "card payment declined at merchant",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Someone used my card without permission",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "how to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "otp shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Transaction timed out on BHIM please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Interest rate seems too high please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "transaction timed out on paytm please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "account activation not done yet please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "EMI conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "my card got blocked without reason please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "emi date change request please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "transaction timed out on gpay please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "otp shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir my upi payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir My UPI payment failed but amount got debited please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Got phishing SMS claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "card payment declined at merchant please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir OTP shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Sir Loan application status pending",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "my upi payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir Unauthorized transaction on my account",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir EMI conversion not reflecting please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Want to increase my card limit",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir transaction timed out on gpay",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "account activation not done yet",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Aadhaar verification stuck please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Want to know my EMI schedule",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir My UPI payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Money sent but not received by merchant",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "want to increase my card limit please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Sir Unknown charge on my credit card statement",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Refund not received for failed transaction please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "transaction timed out on phonepe",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir otp shared by mistake now money gone please help urgent",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir Interest rate seems too high",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Transaction timed out on Paytm",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Double deduction for same payment",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Video KYC link not working please help urgent",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "emi conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "double deduction for same payment please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir EMI conversion not reflecting",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "Unknown charge on my credit card statement please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "my card got blocked without reason please help urgent",
+    "vertical": "CREDIT_CARDS"
+  },
+  {
+    "text": "kyc verification pending for 2 weeks",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Aadhaar verification stuck",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "got phishing sms claiming bank",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "Sir emi date change request",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "transaction timed out on paytm please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir how to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "How to do loan foreclosure",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "my upi payment failed but amount got debited",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Sir refund not received for failed transaction",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Want to know my EMI schedule please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Sir Document upload keeps failing",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "Suspicious login from different city",
+    "vertical": "FRAUD"
+  },
+  {
+    "text": "transaction timed out on bhim please help urgent",
+    "vertical": "PAYMENTS"
+  },
+  {
+    "text": "Loan application status pending please help urgent",
+    "vertical": "LENDING"
+  },
+  {
+    "text": "Video KYC link not working",
+    "vertical": "ONBOARDING"
+  },
+  {
+    "text": "KYC verification pending for 2 weeks please help urgent",
+    "vertical": "ONBOARDING"
+  }
+]
